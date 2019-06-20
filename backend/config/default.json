@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://birajgtm:birajgtm@cluster0-ngloa.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://birajgtm:birajgtm@cluster0-ngloa.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "_1223334444_"
 }
